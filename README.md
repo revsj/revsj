@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Revo M. Jalandoni</h1>
+<h1 align="center">Hi 👋, I'm Revo M. Jalandoni</h1>
 <h3 align="center">-technical drafting student -trying to improve coding skills and pursuing a goal of becoming a software engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
@@ -34,4 +34,3 @@ h1 align="center">Hi 👋, I'm Revo M. Jalandoni</h1>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=revsj&show_icons=true&locale=en" alt="revsj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=revsj&" alt="revsj" /></p>
-
