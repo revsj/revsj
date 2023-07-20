@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://www.freecodecamp.org/revsj](https://www.freecodecamp.org/revsj)
 
-- ⚡ Fun fact **when I  first coded hello world I felt like i had the infinity gauntlet**
+- ⚡ Fun fact **when I first coded hello world I felt like i had the infinity gauntlet**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
