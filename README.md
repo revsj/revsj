@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Revo M. Jalandoni</h1>
-<h3 align="center">-Aspiring Front end Software Engineer-
+<h3 align="center">-Aspiring Front End Software Engineer-
 
     
     -Trying to improve coding skills-
@@ -10,14 +10,14 @@
 
 - 🌱 I’m currently learning **freecodecamp.org and Replit**
 
--  Senior High school student ** 1st year**
+-  Senior High school student **1st year**
 
 - 💬 Ask me about **html, css and tech**
 
-- 📫 How to reach me **rexjalandoni08@gmail.com**
+- 📫 How to reach me **revojalandoni5@gmail.com**
 
 - 📄 Know about my experiences [https://www.freecodecamp.org/revsj](https://www.freecodecamp.org/revsj)
-
+                             
 - ⚡ Fun fact **when I first coded hello world I felt like i had the infinity gauntlet**
 
 <h3 align="left">Connect with me:</h3>
