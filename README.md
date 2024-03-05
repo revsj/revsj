@@ -12,7 +12,7 @@
 
 -  Senior High school student **1st year**
 
-- 💬 Ask me about **html, css and tech**
+- 💬 Ask me about **HTML, CSS, JS**
 
 - 📫 How to reach me **revojalandoni5@gmail.com**
 
