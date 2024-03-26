@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **freecodecamp.org and Replit**
 
--  Senior High school student **1st year**
+-  Senior High school student **Grade 11**
 
 - 💬 Ask me about **HTML, CSS, JS**
 
