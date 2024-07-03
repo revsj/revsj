@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **freecodecamp.org and Replit**
 
--  Senior High school student **Grade 11**
+-  Senior High school student **Grade 12**
 
 - 💬 Ask me about **HTML, CSS, JS**
 
 - 📫 How to reach me **revojalandoni5@gmail.com**
 
-- 📄 Know about my experiences [https://www.freecodecamp.org/revsj](https://www.freecodecamp.org/revsj)
+- 📄 Know about my experiences in <a href="https://www.linkedin.com/in/revo-jalandoni-768253287/">LinkedIn
                              
 - ⚡ Fun fact **when I first coded hello world I felt like i had the infinity gauntlet**
 
