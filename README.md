@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Revo M. Jalandoni</h1>
-<h3 align="center">-Aspiring Front End Software Engineer-
+<h3 align="center">-Aspiring Front End Software Dev-
 
     
     -Improving my coding skills-
