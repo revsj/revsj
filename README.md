@@ -4,7 +4,7 @@
     
     -Improving my coding skills-
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=6c09b952f0tssq07jk4xrqo5u61zy6tpqo0eefi9jqrxjr80&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=6c09b952hxgugj0o08v52ek83aqnlw84t7nqh6rv6kli3y56&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=gcid=6c09b952f0tssq07jk4xrqo5u61zy6tpqo0eefi9jqrxjr80&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 
 
