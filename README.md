@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **freecodecamp.org and Replit**
+- 🌱  **WEB DEVELOPMENT**
 
 -  👨‍🎓👨‍🎓FRESHMAN BSIT**
 
